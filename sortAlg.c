@@ -64,26 +64,6 @@ void tri_bulle(int tab[],int taille){
 }
 
 
-void SimpleSearch(int tab[], int taille, int search){
-    int i = 0;
-   if(i > 0){
-    
-    return -1;
-
-   } else {
-
-    while( i > 0){
-        search = tab[taille - i];
-        i--;
-        return search;
-
-    }
-
-   }
-        
-     
-}
-
 
 
 
